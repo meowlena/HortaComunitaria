@@ -15,15 +15,15 @@
 
 ## Universo do Discurso (UdD)
 
-O municípi pretende gerenciar um sistema integrado de hortas urbanas comunitárias, permitindo a coordenação de múltiplas hortas distribuídas em diferentes bairros, o gerenciamento de lotes individuais, responsabilidades de cultivo e manutenção, além da organização de eventos comunitários.
+O município pretende gerenciar um sistema integrado de hortas urbanas comunitárias, permitindo a coordenação de múltiplas hortas distribuídas em diferentes bairros, o gerenciamento de lotes individuais, responsabilidades de cultivo e manutenção, além da organização de eventos comunitários.
 
 ### Componentes principais:
 
 **Hortas:** Espaços urbanos comunitários localizados em diferentes bairros (ex: Rua das Flores, Avenida Brasil, Rua Independência), cada uma com data de fundação e endereço.
 
-**Lotes:** Subdivisions dentro de cada horta, com área específica (em m²), status (ativo, inativo, em manutenção). Cada lote pode hospedar múltiplas plantações.
+**Lotes:** Subdivisões dentro de cada horta, com área específica (em m²), status (ativo, inativo, em manutenção). Cada lote pode hospedar múltiplas plantações.
 
-**Responsáveis:** Pessoas físicas (com CPF) ou instituições (com CNPJ) que se responsabilizam pela manutenção e cultivo dos lotes. Cada responsável pode estar associado a múltiplos lotes e em períodos distintos (data_início e data_fim), permitindo histórico de responsabilidades.
+**Responsáveis:** Pessoas físicas ou instituições que se responsabilizam pela manutenção e cultivo dos lotes. Cada responsável pode estar associado a múltiplos lotes e em períodos distintos (com data de início e fim), permitindo histórico de responsabilidades.
 
 **Espécies:** Plantas cultivadas nas hortas, categorizadas em tipos (Alimentícia, Ornamental, Repelente, PANC, Outros), com marcação se são tóxicas. Exemplos: tomate, alface, girassol, arruda, bertalha, rosa.
 
