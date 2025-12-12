@@ -23,7 +23,7 @@ O município pretende gerenciar um sistema integrado de hortas urbanas comunitá
 
 **Lotes:** Subdivisões dentro de cada horta, com área específica (em m²), status (ativo, inativo, em manutenção). Cada lote pode hospedar múltiplas plantações.
 
-**Responsáveis:** Pessoas físicas ou instituições que se responsabilizam pela manutenção e cultivo dos lotes. Cada responsável pode estar associado a múltiplos lotes e em períodos distintos (com data de inícios e fim), permitindo histórico de responsabilidades.
+**Responsáveis:** Pessoas físicas ou instituições que se responsabilizam pela manutenção e cultivo dos lotes. Cada responsável pode estar associado a múltiplos lotes e em períodos distintos (com data de início e fim), permitindo histórico de responsabilidades.
 
 **Espécies:** Plantas cultivadas nas hortas, categorizadas em tipos (Alimentícia, Ornamental, Repelente, PANC, Outros), com marcação se são tóxicas. Exemplos: tomate, alface, girassol, arruda, bertalha, rosa.
 
