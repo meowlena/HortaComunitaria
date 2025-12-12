@@ -15,7 +15,7 @@
 
 ## Universo do Discurso (UdD)
 
-O municípi pretende gerenciar um sistema integrado de hortas urbanas comunitárias, permitindo a coordenação de múltiplas hortas distribuídas em diferentes bairros, o gerenciamento de lotes individuais, responsabilidades de cultivo e manutenção, além da organização de eventos comunitários.
+O município pretende gerenciar um sistema integrado de hortas urbanas comunitárias, permitindo a coordenação de múltiplas hortas distribuídas em diferentes bairros, o gerenciamento de lotes individuais, responsabilidades de cultivo e manutenção, além da organização de eventos comunitários.
 
 ### Componentes principais:
 
