@@ -73,7 +73,7 @@ Trabalho/
 ├── README.md                      # Este arquivo
 ├── sql/
 │   ├── schema.sql                 # DDL: criação de tabelas, FKs, constraints, indexes
-│   ├── entities.sql               # Dados fictícios (3+ instâncias por entidade)
+│   ├── inserts.sql               # Dados fictícios (3+ instâncias por entidade)
 │   └── queries.sql                # 1 visão + 6 consultas conforme requisitos
 └── diagrams/                      # Diagramas e documentação do modelo ER
 ```
